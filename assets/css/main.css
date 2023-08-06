@@ -168,6 +168,10 @@ textarea {
 	appearance: none;
 }
 
+.workDescription {
+	text-align: center;
+}
+
 /* Row */
 
 .row {
