@@ -2292,6 +2292,7 @@ body.is-preload #wrapper {
 	text-align: center;
 	padding: 2em 0 0 0;
 	font-size: 0.75em;
+	word-spacing: 5em;
 }
 
 #footer a {
